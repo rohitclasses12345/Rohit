@@ -29,4 +29,3 @@ werkzeug==2.0.2
 itsdangerous==2.0.1
 ffmpeg
 m3u8-download
-yt-dlp --cookies youtube_cookies.txt
